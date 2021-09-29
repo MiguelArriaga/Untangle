@@ -1,5 +1,5 @@
 // new Q5("global"); //initialize q5
-// p5.disableFriendlyErrors = true; // disables FES
+p5.disableFriendlyErrors = true; // disables FES
 // Settings
 let CLOSE_ENOUGH;
 let DOT_SIZE;
