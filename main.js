@@ -9,7 +9,7 @@ let CM_FORCE_SCALE = 0.25;
 let TARGET_LENGTH = 20;
 
 // Game options
-let targN = 35; //21; // Target number of dots (actual number >= N due to algorithm)
+let targN = 21; //21; // Target number of dots (actual number >= N due to algorithm)
 let easyMode = false; // Shows crossing lines in red
 let darkMode = true; // Dark mode color scheme
 
